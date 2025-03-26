@@ -38,5 +38,3 @@ jobs:
         run: |
           echo "Add other actions to build",
           echo "test, and deploy your project"
-          - name: Pause for 5 seconds
-            run: sleep 5
