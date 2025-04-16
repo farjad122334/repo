@@ -24,4 +24,5 @@ jobs:
         touch file.txt
         echo "this is text of file">>file.txt
         cat file.txt
+        ls -ltr -a
       
