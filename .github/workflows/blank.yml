@@ -18,7 +18,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
      - name: run commands
-     - run: |
+       run: |
         mkdir folder
         cd folder
         touch file.txt
